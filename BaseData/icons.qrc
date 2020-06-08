@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/icons8-добавить-файл-64.png</file>
+        <file>Icons/icons8-открыть-папку-48.png</file>
+        <file>Icons/depositphotos_236391654-stock-illustration-vector-universal-icon-trendy-look.jpg</file>
+    </qresource>
+</RCC>
